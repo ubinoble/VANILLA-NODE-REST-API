@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Airpod Wireless Bluetooth Headphones",
+        "description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working",
+        "price": 89.99
+    },
+    {
+        "id": "2",
+        "name": "Iphone 11 PRO 256GB Memory",
+        "description": "Introducing the Iphone 11 Pro. A transformation triple-camera system that adds tons of capability without complexity. An unprcedented leap in battery life",
+        "price": 599.99
+    },
+    {
+        "id": "3",
+        "name": "Cannon EOS 80D DSLR Camera",
+        "description": "Characterised by versatile imaging specs, the Cannon EOS 80D DSLRfurther clarifies itself using a pair of robust focusing systems and intuitive designs",
+        "price": 929.99
+    },
+    {
+        "id": "4",
+        "name": "Sony Playstation 4 Pro White Version",
+        "description": "The ultimate home entertaining center starts with Playstation. whether you are into gaming, HD movies, television, music",
+        "price": 399.99
+    },
+    {
+        "id": "5",
+        "name": "Logitech G-Series Gaming Mouse",
+        "description": "Get better handles on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allows customisation for a smooth playing experience",
+        "price": 49.99
+    },
+    {
+        "id": "f5470e2d-f2db-4607-8de8-e8854841ec18",
+        "title": "Nobstar Product 2",
+        "description": "This is a product",
+        "price": 50
+    }
+]
